@@ -3,7 +3,7 @@ variable "git-name" {
 }
 
 variable "git-token" {
-  default = "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"
+  default = "xxxxxxxxxxxxxxxxxxxxxxxxx"
 }
 
 variable "key-name" {
